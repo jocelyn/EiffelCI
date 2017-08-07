@@ -1,13 +1,8 @@
 note
-	description: "src application root class"
-	date: "$Date$"
-	revision: "$Revision$"
+	description: "Application root class"
 
 class
 	APPLICATION
-
-inherit
-	ARGUMENTS
 
 create
 	make

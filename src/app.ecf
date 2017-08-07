@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<system xmlns="http://www.eiffel.com/developers/xml/configuration-1-16-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.eiffel.com/developers/xml/configuration-1-16-0 http://www.eiffel.com/developers/xml/configuration-1-16-0.xsd" name="src" uuid="E760DE54-22B7-452B-A1B6-9D5B50DA6AFA">
-	<target name="src">
+<system xmlns="http://www.eiffel.com/developers/xml/configuration-1-16-0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.eiffel.com/developers/xml/configuration-1-16-0 http://www.eiffel.com/developers/xml/configuration-1-16-0.xsd" name="app" uuid="E760DE54-22B7-452B-A1B6-9D5B50DA6AFA">
+	<target name="app">
 		<root feature="make" class="APPLICATION"/>
 		<file_rule>
 			<exclude>/\.git$</exclude>
